@@ -2,12 +2,12 @@
 
 ## Requirements
 
-**node / npm**
-**localtunnel** (only if you're running a NodeJS server locally)
-**cordova**
-**phonegap** - maybe for testing on website
-**Android Studio**
-**XCode**
+**node / npm** <br />
+**localtunnel** (only if you're running a NodeJS server locally) <br />
+**cordova** <br />
+**phonegap** - maybe for testing on website <br />
+**Android Studio** <br />
+**XCode** <br />
 
 
 ## Setup Envoirment
